@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hi, I'm Akarshit Maurya
+# 👋 I'm Akarshit Maurya
 
 🎓 Computer Science Student | 💻 Web Developer | 🌐 MERN Stack Learner  
 📍 Bareilly, Uttar Pradesh | 📅 B.Tech (2024–2027) | 🎓 Diploma (2021–2024)
